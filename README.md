@@ -1,7 +1,7 @@
 # Grupp-H
 Disainimajaka tehnikarendi süsteem
 
-**Grupi liikmed:**
+#**Grupi liikmed:**
 
 Maria Kallaste
 Henrik Mütt
@@ -10,7 +10,7 @@ Jürgen Vander
 Silver Reinart
 Kristofer Mere
 
-Mentorid:
+#**Mentorid:**
 Merilyn Tohv
 Liis Alber-Jaansalu
 

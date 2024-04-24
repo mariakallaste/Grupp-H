@@ -15,7 +15,7 @@ Disainimajaka tehnikarendi süsteem
 - Liis Alber-Jaansalu
 
 **Eesmärk:**
-Projekti eesmärk on välja töötada süsteem Kuressaare Ametikooli Disainimajaka fotograafia aine tehnika rendi süsteem, mis võimaldab õppejõul hallata väljarenditavat tehnikat ja esemete tagastamistähtaegasid.
+Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotograafia aine tehnika rendi süsteem, mis võimaldab õppejõul hallata väljarenditavat tehnikat ja esemete tagastamistähtaegasid.
 
 - Enamus tehnikat on sildistatud triipkoodidega. Väiketehnika, nt mälukaartide puhul, võiks kasutada seerianumbreid. Tehnika peaks olema leitav nii skannerides kui ka manuaalselt koodi või seerianumbri sisestades.
 - Tehnikat saavad rentida vaid Disainimajaka õpilased.

@@ -4,7 +4,6 @@ Disainimajaka tehnikarendi süsteem
 **Grupi liikmed:**
 
 - Maria Kallaste
-- Henrik Mütt
 - Marek Udeküll
 - Jürgen Vander
 - Silver Reinart
@@ -25,6 +24,13 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 - Rakendusele pääseb ligi vaid õpetaja.
 - Andmed, mida õpilase kohta vaja: nimi, meiliaadress, rendi põhjus.
 - Rendinimekiri: https://docs.google.com/spreadsheets/d/1hoiIEsY6LCDF9CWcCW_XS4ExcEEgc8bS/edit?usp=sharing&ouid=113727409575105308767&rtpof=true&sd=true
+
+**Tööjaotused:**
+- Maria: dokumenteerimine, disain, front-end
+- Marek: disain, front-end
+- Jürgen: andmebaas, back-end
+- Silver: front-end
+- Kristofer: andmebaas, back-end
 
 
 

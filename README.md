@@ -35,7 +35,7 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 * **Figma** Disain
 * **Visual Studio Code** Programmeerimine
 * **Kasutatud keeled** HTML, Tailwind
-* **Andmebaasi loomine** MySQL workpage
+* **Andmemudeli loomine** MySQL workbench
 * 
 
 # Töökulg

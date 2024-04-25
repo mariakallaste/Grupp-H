@@ -1,5 +1,5 @@
 ## Grupp-H
-Disainimajaka tehnikarendi süsteem
+**Disainimajaka tehnikarendi süsteem**
 
 **Grupi liikmed ja tööjaotused:**
 

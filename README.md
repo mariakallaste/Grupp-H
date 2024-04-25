@@ -25,20 +25,20 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 - Andmed, mida õpilase kohta vaja: nimi, meiliaadress, rendi põhjus.
   
 **Lingid:**
-- **Rendinimekiri:** [link] (https://docs.google.com/spreadsheets/d/1hoiIEsY6LCDF9CWcCW_XS4ExcEEgc8bS/edit?usp=sharing&ouid=113727409575105308767&rtpof=true&sd=true)
-- **Suhtluskanal Slack:** [link] (https://app.slack.com/client/TUUFNUCSW/C0713UTD20Y)
-- **Disain Figmas:** [link] (https://www.figma.com/file/baFahJe2Gqs1S1Uos14sum/Untitled?type=design&node-id=0-1&mode=design&t=10zmSMD1qhqbhFW7-0)
+- **Rendinimekiri:** (https://docs.google.com/spreadsheets/d/1hoiIEsY6LCDF9CWcCW_XS4ExcEEgc8bS/edit?usp=sharing&ouid=113727409575105308767&rtpof=true&sd=true)
+- **Suhtluskanal Slack:** (https://app.slack.com/client/TUUFNUCSW/C0713UTD20Y)
+- **Disain Figmas:** (https://www.figma.com/file/baFahJe2Gqs1S1Uos14sum/Untitled?type=design&node-id=0-1&mode=design&t=10zmSMD1qhqbhFW7-0)
 
 **Kasutatav tarkvara:**
 * **Slack** Suhtluskanal
 * **Github** Projekti haldamine
-* * **Figma** Disain
+* **Figma** Disain
 * **Visual Studio Code** Programmeerimine
 * **Kasutatud keeled** HTML, Tailwind
 
-## Töökulg
+# Töökulg
 
-# Päev 1
+## Päev 1
 * Tiimi tutvumine
 * Tööülesannete jaotus
 * Suhtluskanali ülesseadmine Slackis
@@ -48,7 +48,7 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 ![img_3614_720](https://github.com/mariakallaste/Grupp-H/assets/144336453/7bcb2f60-33ce-4e17-a006-8b0ac44e2bcb)
 
 
-# Päev 2
+## Päev 2
 * Disainiga alustamine Figmas
 * 
 

@@ -25,9 +25,9 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 - Andmed, mida õpilase kohta vaja: nimi, meiliaadress, rendi põhjus.
   
 **Lingid:**
-- **Rendinimekiri:** (https://docs.google.com/spreadsheets/d/1hoiIEsY6LCDF9CWcCW_XS4ExcEEgc8bS/edit?usp=sharing&ouid=113727409575105308767&rtpof=true&sd=true)
-- **Suhtluskanal Slack:** (https://app.slack.com/client/TUUFNUCSW/C0713UTD20Y)
-- **Disain Figmas:** (https://www.figma.com/file/baFahJe2Gqs1S1Uos14sum/Untitled?type=design&node-id=0-1&mode=design&t=10zmSMD1qhqbhFW7-0)
+- **Rendinimekiri:** https://docs.google.com/spreadsheets/d/1hoiIEsY6LCDF9CWcCW_XS4ExcEEgc8bS/edit?usp=sharing&ouid=113727409575105308767&rtpof=true&sd=true
+- **Suhtluskanal Slack:** https://app.slack.com/client/TUUFNUCSW/C0713UTD20Y
+- **Disain Figmas:** https://www.figma.com/file/baFahJe2Gqs1S1Uos14sum/Untitled?type=design&node-id=0-1&mode=design&t=10zmSMD1qhqbhFW7-0
 
 **Kasutatav tarkvara:**
 * **Slack** Suhtluskanal

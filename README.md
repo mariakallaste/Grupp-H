@@ -3,7 +3,7 @@
 
 **Grupi liikmed ja tööjaotused:**
 
-- Maria Kallaste: dokumenteerimine, andmebaasi assistent
+- Maria Kallaste: dokumenteerimine, andmebaasi ja disaini assistent
 - Marek Udeküll: disain, front-end
 - Jürgen Vander: andmebaas, back-end
 - Silver Reinart: disain, front-end

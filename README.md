@@ -3,11 +3,11 @@ Disainimajaka tehnikarendi süsteem
 
 **Grupi liikmed ja tööjaotused:**
 
-- Maria Kallaste: dokumenteerimine, disain, front-end
+- Maria Kallaste: dokumenteerimine
 - Marek Udeküll: disain, front-end
 - Jürgen Vander: andmebaas, back-end
-- Silver Reinart: front-end
-- Kristofer Mere: andmebaas, back-end
+- Silver Reinart: disain, front-end
+- Kristofer Mere: disain
 
 **Mentorid:**
 - Merilyn Tohv

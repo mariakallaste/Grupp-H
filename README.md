@@ -1,19 +1,19 @@
-# Grupp-H
+## Grupp-H
 Disainimajaka tehnikarendi süsteem
 
-**Grupi liikmed:**
+**Grupi liikmed ja tööjaotused:**
 
-- Maria Kallaste
-- Marek Udeküll
-- Jürgen Vander
-- Silver Reinart
-- Kristofer Mere
+- Maria Kallaste: dokumenteerimine, disain, front-end
+- Marek Udeküll: disain, front-end
+- Jürgen Vander: andmebaas, back-end
+- Silver Reinart: front-end
+- Kristofer Mere: andmebaas, back-end
 
 **Mentorid:**
 - Merilyn Tohv
 - Liis Alber-Jaansalu
 
-**Eesmärk:**
+**Projekti eesmärk ja lähteinfo:**
 Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotograafia aine tehnika rendi süsteem, mis võimaldab õppejõul hallata väljarenditavat tehnikat ja esemete tagastamistähtaegasid.
 
 - Enamus tehnikat on sildistatud triipkoodidega. Väiketehnika, nt mälukaartide puhul, võiks kasutada seerianumbreid. Tehnika peaks olema leitav nii skannerides kui ka manuaalselt koodi või seerianumbri sisestades.
@@ -23,14 +23,34 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 - Tagastamistähtaja ületamisel ilmub vastava õpilase nime taha märkus, nt punane hüümärk.
 - Rakendusele pääseb ligi vaid õpetaja.
 - Andmed, mida õpilase kohta vaja: nimi, meiliaadress, rendi põhjus.
-- Rendinimekiri: https://docs.google.com/spreadsheets/d/1hoiIEsY6LCDF9CWcCW_XS4ExcEEgc8bS/edit?usp=sharing&ouid=113727409575105308767&rtpof=true&sd=true
+  
+**Lingid:**
+- **Rendinimekiri:** [link] (https://docs.google.com/spreadsheets/d/1hoiIEsY6LCDF9CWcCW_XS4ExcEEgc8bS/edit?usp=sharing&ouid=113727409575105308767&rtpof=true&sd=true)
+- **Suhtluskanal Slack:** [link] (https://app.slack.com/client/TUUFNUCSW/C0713UTD20Y)
+- **Disain Figmas:** [link] (https://www.figma.com/file/baFahJe2Gqs1S1Uos14sum/Untitled?type=design&node-id=0-1&mode=design&t=10zmSMD1qhqbhFW7-0)
 
-**Tööjaotused:**
-- Maria: dokumenteerimine, disain, front-end
-- Marek: disain, front-end
-- Jürgen: andmebaas, back-end
-- Silver: front-end
-- Kristofer: andmebaas, back-end
+**Kasutatav tarkvara:**
+* **Slack** Suhtluskanal
+* **Github** Projekti haldamine
+* * **Figma** Disain
+* **Visual Studio Code** Programmeerimine
+* **Kasutatud keeled** HTML, Tailwind
+
+## Töökulg
+
+# Päev 1
+* Tiimi tutvumine
+* Tööülesannete jaotus
+* Suhtluskanali ülesseadmine Slackis
+* Projekti halduskanali ülesseadmine Githubis
+* Rakenduse struktuuri esmane kavandamine
+
+![img_3614_720](https://github.com/mariakallaste/Grupp-H/assets/144336453/7bcb2f60-33ce-4e17-a006-8b0ac44e2bcb)
+
+
+# Päev 2
+* Disainiga alustamine Figmas
+* 
 
 
 

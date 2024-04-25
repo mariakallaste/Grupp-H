@@ -12,6 +12,7 @@
 **Mentorid:**
 - Merilyn Tohv
 - Liis Alber-Jaansalu
+- Mattias Maasik
 
 **Projekti eesmärk ja lähteinfo:**
 

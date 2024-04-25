@@ -53,10 +53,12 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 ## Päev 2
 * Disainiga alustamine Figmas
 * Andmemudeli kavandamine
-![IMG_6921](https://github.com/mariakallaste/Grupp-H/assets/144336453/cfa982e2-3f91-4d04-a8c1-a112f8af52d1)
+![IMG_6923](https://github.com/mariakallaste/Grupp-H/assets/144336453/cad6af82-8556-463f-a357-7d84f9c8cdf6)
+
 
 * Andmemudeli loomine
-![IMG_6920](https://github.com/mariakallaste/Grupp-H/assets/144336453/4fc9da2f-185e-4595-9fc1-44dd1b630934)
+![image_480](https://github.com/mariakallaste/Grupp-H/assets/144336453/f48c02fa-3c7f-4a6d-80d6-89c7618d7354)
+
 
 
 

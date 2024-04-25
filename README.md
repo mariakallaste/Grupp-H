@@ -47,12 +47,17 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 * Projekti halduskanali ülesseadmine Githubis
 * Rakenduse struktuuri esmane kavandamine
 
-![img_3614_720](https://github.com/mariakallaste/Grupp-H/assets/144336453/7bcb2f60-33ce-4e17-a006-8b0ac44e2bcb)
+![IMG_6918](https://github.com/mariakallaste/Grupp-H/assets/144336453/c9dee5c0-768f-49e1-87c7-38d10cedd497)
 
 
 ## Päev 2
 * Disainiga alustamine Figmas
-* 
+* Andmemudeli kavandamine
+![IMG_6919](https://github.com/mariakallaste/Grupp-H/assets/144336453/96b914d4-dcf0-440b-a65d-ebffc179d0e4)
+
+* Andmemudeli loomine
+![IMG_6920](https://github.com/mariakallaste/Grupp-H/assets/144336453/4fc9da2f-185e-4595-9fc1-44dd1b630934)
+
 
 
 

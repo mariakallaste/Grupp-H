@@ -36,7 +36,7 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 * **Visual Studio Code** Programmeerimine
 * **Kasutatud keeled** HTML, Tailwind
 * **Andmemudeli loomine** MySQL workbench
-* 
+* **Andmebaasi loomine** Node, Prisma, Express, MySQL 
 
 # Töökulg
 
@@ -51,10 +51,12 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 
 
 ## Päev 2
-* Disainiga alustamine Figmas
+* Disainiga loomine Figmas
 * Andmemudeli kavandamine
 ![IMG_6924](https://github.com/mariakallaste/Grupp-H/assets/144336453/11748fd0-272a-4773-b3ea-1699b08691f5)
 ![image_720](https://github.com/mariakallaste/Grupp-H/assets/144336453/9bb13b88-f091-42bb-a373-98dbd2c6a57a)
+* Rakenduse loomine 
+* Andmebaasi loomine 
 
 
 

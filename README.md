@@ -62,7 +62,8 @@ Projekti eesmärk on välja töötada Kuressaare Ametikooli Disainimajaka fotogr
 
 ## Päev 3
 * Front-endiga jätkamine
-* Andmebaasiga jätkamine
+* Andmebaasiga jätkamine ja lõpetamine
+* Back-endiga alustamine
 
 
 
